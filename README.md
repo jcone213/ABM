@@ -2,4 +2,4 @@
 
 ### Introduction
 
-[Intro](https://jcone213.github.io/ABM/Introduction/)
+[Intro](https://jcone213.github.io/ABM/Introduction)
